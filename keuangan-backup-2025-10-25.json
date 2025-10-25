@@ -1,0 +1,228 @@
+{
+  "transactions": [
+    {
+      "id": 1761232624161,
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 700000,
+      "description": "Kirim Ibu"
+    },
+    {
+      "id": 1761232649659,
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 300000,
+      "description": "Kasih Mbak Nina"
+    },
+    {
+      "id": 1761232675588,
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Tagihan",
+      "amount": 200000,
+      "description": "Arisan"
+    },
+    {
+      "id": 1761232794348,
+      "date": "2025-10-11",
+      "type": "expense",
+      "category": "Tagihan",
+      "amount": 2064000,
+      "description": "Bayar EasyCash"
+    },
+    {
+      "id": 1761232815121,
+      "date": "2025-10-11",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 30000,
+      "description": "Beli rokok"
+    },
+    {
+      "id": 1761232855237,
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 90000,
+      "description": "Beli data Telkomsel 30Gb"
+    },
+    {
+      "id": 1761232884592,
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": "Pendidikan",
+      "amount": 541000,
+      "description": "Bayar kuliah"
+    },
+    {
+      "id": 1761232917020,
+      "date": "2025-10-13",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 15000,
+      "description": "Beli piscok"
+    },
+    {
+      "id": 1761232945288,
+      "date": "2025-10-13",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 15000,
+      "description": "Beli geprek wiwid"
+    },
+    {
+      "id": 1761232991965,
+      "date": "2025-10-13",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 20000,
+      "description": "Beli kopi sweet"
+    },
+    {
+      "id": 1761233019754,
+      "date": "2025-10-15",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 121400,
+      "description": "Beli casing"
+    },
+    {
+      "id": 1761233057217,
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 89800,
+      "description": "Beli pengangkat komedo RtopR"
+    },
+    {
+      "id": 1761233096966,
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 85500,
+      "description": "Beli gingseng hair Oil 170ml"
+    },
+    {
+      "id": 1761233122342,
+      "date": "2025-10-15",
+      "type": "expense",
+      "category": "Lainnya",
+      "amount": 829150,
+      "description": "Lost Trade"
+    },
+    {
+      "id": 1761233150959,
+      "date": "2025-10-17",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 29000,
+      "description": "Beli sate + es teh hijau"
+    },
+    {
+      "id": 1761233176327,
+      "date": "2025-10-20",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 12000,
+      "description": "Beli pop mie"
+    },
+    {
+      "id": 1761233231052,
+      "date": "2025-10-22",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 22000,
+      "description": "Beli air 2 + 4 susu sachet"
+    },
+    {
+      "id": 1761233313719,
+      "date": "2025-10-22",
+      "type": "expense",
+      "category": "Belanja",
+      "amount": 25000,
+      "description": "Pangkas Rambut"
+    },
+    {
+      "id": 1761233371015,
+      "date": "2025-10-10",
+      "type": "income",
+      "category": "Gaji",
+      "amount": 4050000,
+      "description": "Gaji pokok"
+    },
+    {
+      "id": 1761233419953,
+      "date": "2025-10-10",
+      "type": "income",
+      "category": "Bonus",
+      "amount": 3040000,
+      "description": "Overtime"
+    },
+    {
+      "id": 1761233446065,
+      "date": "2025-10-10",
+      "type": "income",
+      "category": "Bonus",
+      "amount": 460000,
+      "description": "UDL"
+    },
+    {
+      "id": 1761353854471,
+      "date": "2025-10-25",
+      "type": "expense",
+      "category": "Makanan",
+      "amount": 22000,
+      "description": "Beli nasi + 3 beng beng"
+    }
+  ],
+  "liquidAssets": [
+    {
+      "id": 1761232283195,
+      "name": "Tabungan BCA",
+      "category": "Tabungan",
+      "amount": 1909237,
+      "notes": ""
+    },
+    {
+      "id": 1761232358124,
+      "name": "BMRI",
+      "category": "Saham",
+      "amount": 2198292,
+      "notes": ""
+    }
+  ],
+  "physicalAssets": [
+    {
+      "id": 1761232383905,
+      "name": "Motor CB150r 2016",
+      "category": "Kendaraan",
+      "amount": 9000000,
+      "notes": ""
+    }
+  ],
+  "liabilities": [
+    {
+      "id": 1761232586380,
+      "name": "EasyCash",
+      "category": "Pinjaman Online",
+      "amount": 3340768,
+      "notes": "Dalam 6 bulan"
+    },
+    {
+      "id": 1761354204299,
+      "name": "Beli TWS EarFun Pro 2",
+      "category": "PayLater",
+      "amount": 469100
+    },
+    {
+      "id": 1761354250564,
+      "name": "Beli Samsung Tab Active 5",
+      "category": "PayLater",
+      "amount": 7892400
+    }
+  ],
+  "budgets": {},
+  "exportDate": "2025-10-25T03:56:50.489Z"
+}
